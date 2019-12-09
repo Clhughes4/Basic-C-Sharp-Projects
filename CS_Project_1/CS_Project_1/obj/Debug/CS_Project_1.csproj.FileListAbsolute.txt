@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Documents\GitHub\HTML-CSS-Projects\Visual Studio Exercise\CS_Project_1\CS_Project_1\bin\Debug\CS_Project_1.exe.config
+C:\Users\Clint-Aly\Documents\GitHub\HTML-CSS-Projects\Visual Studio Exercise\CS_Project_1\CS_Project_1\bin\Debug\CS_Project_1.exe
+C:\Users\Clint-Aly\Documents\GitHub\HTML-CSS-Projects\Visual Studio Exercise\CS_Project_1\CS_Project_1\bin\Debug\CS_Project_1.pdb
+C:\Users\Clint-Aly\Documents\GitHub\HTML-CSS-Projects\Visual Studio Exercise\CS_Project_1\CS_Project_1\obj\Debug\CS_Project_1.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Documents\GitHub\HTML-CSS-Projects\Visual Studio Exercise\CS_Project_1\CS_Project_1\obj\Debug\CS_Project_1.exe
+C:\Users\Clint-Aly\Documents\GitHub\HTML-CSS-Projects\Visual Studio Exercise\CS_Project_1\CS_Project_1\obj\Debug\CS_Project_1.pdb
