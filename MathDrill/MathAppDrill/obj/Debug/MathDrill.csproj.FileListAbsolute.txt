@@ -1,0 +1,5 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\MathAppDrill\MathAppDrill\bin\Debug\MathAppDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\MathAppDrill\MathAppDrill\bin\Debug\MathAppDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\MathAppDrill\MathAppDrill\bin\Debug\MathAppDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\MathAppDrill\MathAppDrill\obj\Debug\MathAppDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\MathAppDrill\MathAppDrill\obj\Debug\MathAppDrill.pdb
