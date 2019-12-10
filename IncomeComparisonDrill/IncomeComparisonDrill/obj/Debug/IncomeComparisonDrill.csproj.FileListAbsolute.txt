@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IncomeComparisonDrill\IncomeComparisonDrill\bin\Debug\IncomeComparisonDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IncomeComparisonDrill\IncomeComparisonDrill\bin\Debug\IncomeComparisonDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IncomeComparisonDrill\IncomeComparisonDrill\bin\Debug\IncomeComparisonDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IncomeComparisonDrill\IncomeComparisonDrill\obj\Debug\IncomeComparisonDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IncomeComparisonDrill\IncomeComparisonDrill\obj\Debug\IncomeComparisonDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IncomeComparisonDrill\IncomeComparisonDrill\obj\Debug\IncomeComparisonDrill.pdb
