@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StringDrill\StringDrill\bin\Debug\StringDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StringDrill\StringDrill\bin\Debug\StringDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StringDrill\StringDrill\bin\Debug\StringDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StringDrill\StringDrill\obj\Debug\StringDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StringDrill\StringDrill\obj\Debug\StringDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StringDrill\StringDrill\obj\Debug\StringDrill.pdb
