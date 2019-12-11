@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\BooleanDrill\BooleanDrill\bin\Debug\BooleanDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\BooleanDrill\BooleanDrill\bin\Debug\BooleanDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\BooleanDrill\BooleanDrill\bin\Debug\BooleanDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\BooleanDrill\BooleanDrill\obj\Debug\BooleanDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\BooleanDrill\BooleanDrill\obj\Debug\BooleanDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\BooleanDrill\BooleanDrill\obj\Debug\BooleanDrill.pdb
