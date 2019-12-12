@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Array_List_Drill\Array_List_Drill\bin\Debug\Array_List_Drill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Array_List_Drill\Array_List_Drill\bin\Debug\Array_List_Drill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Array_List_Drill\Array_List_Drill\bin\Debug\Array_List_Drill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Array_List_Drill\Array_List_Drill\obj\Debug\Array_List_Drill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Array_List_Drill\Array_List_Drill\obj\Debug\Array_List_Drill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Array_List_Drill\Array_List_Drill\obj\Debug\Array_List_Drill.pdb
