@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IterationArrayStringDrill\IterationArrayStringDrill\bin\Debug\IterationArrayStringDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IterationArrayStringDrill\IterationArrayStringDrill\bin\Debug\IterationArrayStringDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IterationArrayStringDrill\IterationArrayStringDrill\bin\Debug\IterationArrayStringDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IterationArrayStringDrill\IterationArrayStringDrill\obj\Debug\IterationArrayStringDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IterationArrayStringDrill\IterationArrayStringDrill\obj\Debug\IterationArrayStringDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\IterationArrayStringDrill\IterationArrayStringDrill\obj\Debug\IterationArrayStringDrill.pdb
