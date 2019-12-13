@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Divide_TryCatchDrill\Divide_TryCatchDrill\bin\Debug\Divide_TryCatchDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Divide_TryCatchDrill\Divide_TryCatchDrill\bin\Debug\Divide_TryCatchDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Divide_TryCatchDrill\Divide_TryCatchDrill\bin\Debug\Divide_TryCatchDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Divide_TryCatchDrill\Divide_TryCatchDrill\obj\Debug\Divide_TryCatchDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Divide_TryCatchDrill\Divide_TryCatchDrill\obj\Debug\Divide_TryCatchDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Divide_TryCatchDrill\Divide_TryCatchDrill\obj\Debug\Divide_TryCatchDrill.pdb
