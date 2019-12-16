@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_3_Drill\Method_3_Drill\bin\Debug\Method_3_Drill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_3_Drill\Method_3_Drill\bin\Debug\Method_3_Drill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_3_Drill\Method_3_Drill\bin\Debug\Method_3_Drill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_3_Drill\Method_3_Drill\obj\Debug\Method_3_Drill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_3_Drill\Method_3_Drill\obj\Debug\Method_3_Drill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_3_Drill\Method_3_Drill\obj\Debug\Method_3_Drill.pdb
