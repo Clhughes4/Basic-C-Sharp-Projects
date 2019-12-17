@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\source\repos\PersonDrill\PersonDrill\bin\Debug\PersonDrill.exe.config
+C:\Users\Clint-Aly\source\repos\PersonDrill\PersonDrill\bin\Debug\PersonDrill.exe
+C:\Users\Clint-Aly\source\repos\PersonDrill\PersonDrill\bin\Debug\PersonDrill.pdb
+C:\Users\Clint-Aly\source\repos\PersonDrill\PersonDrill\obj\Debug\PersonDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\source\repos\PersonDrill\PersonDrill\obj\Debug\PersonDrill.exe
+C:\Users\Clint-Aly\source\repos\PersonDrill\PersonDrill\obj\Debug\PersonDrill.pdb
