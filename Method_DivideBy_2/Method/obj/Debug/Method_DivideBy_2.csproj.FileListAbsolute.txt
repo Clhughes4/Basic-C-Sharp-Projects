@@ -1,0 +1,12 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method\Method\bin\Debug\Method.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method\Method\bin\Debug\Method.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method\Method\obj\Debug\Method_DivideBy_2.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method\Method\obj\Debug\Method.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method\Method\obj\Debug\Method.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_DivideBy_2\Method\bin\Debug\Method.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_DivideBy_2\Method\bin\Debug\Method.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_DivideBy_2\Method\bin\Debug\Method.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_DivideBy_2\Method\obj\Debug\Method_DivideBy_2.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_DivideBy_2\Method\obj\Debug\Method.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\Method_DivideBy_2\Method\obj\Debug\Method.pdb
