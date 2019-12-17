@@ -8,10 +8,10 @@ namespace Method
 {
     class Math
     {
-        public void Divide(int num)
+        public void Divide(int num, out int a)
         {
             int answer = num / 2;
-            Console.WriteLine("The answer is: {0}\n", answer);
+            a = answer;
         }
 
         public decimal Multiply(decimal num, decimal num1)
