@@ -10,6 +10,8 @@ namespace AbstractPersonDrill
     {
         static void Main(string[] args)
         {
+            //Person person = new Employee();
+
             Employee employee = new Employee();
             employee.firstName = "Sample";
             employee.lastName = "Student";

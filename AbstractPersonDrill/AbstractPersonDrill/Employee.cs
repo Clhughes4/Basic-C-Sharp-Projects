@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace AbstractPersonDrill
 {
-    class Employee: Person
+    class Employee: Person/*, IQuittable*/
     {
         public override void SayName()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("The Student is the: \n\n  {0} {1}",firstName, lastName);
         }
+        //public void Quit()
+        //{
+        //    throw new NotImplementedException();
+        //}
     }
 }

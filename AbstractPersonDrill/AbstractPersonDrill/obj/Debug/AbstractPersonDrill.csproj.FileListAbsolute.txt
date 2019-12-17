@@ -4,3 +4,9 @@ C:\Users\Clint-Aly\source\repos\AbstractPersonDrill\AbstractPersonDrill\bin\Debu
 C:\Users\Clint-Aly\source\repos\AbstractPersonDrill\AbstractPersonDrill\obj\Debug\AbstractPersonDrill.csprojAssemblyReference.cache
 C:\Users\Clint-Aly\source\repos\AbstractPersonDrill\AbstractPersonDrill\obj\Debug\AbstractPersonDrill.exe
 C:\Users\Clint-Aly\source\repos\AbstractPersonDrill\AbstractPersonDrill\obj\Debug\AbstractPersonDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AbstractPersonDrill\AbstractPersonDrill\bin\Debug\AbstractPersonDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AbstractPersonDrill\AbstractPersonDrill\bin\Debug\AbstractPersonDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AbstractPersonDrill\AbstractPersonDrill\bin\Debug\AbstractPersonDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AbstractPersonDrill\AbstractPersonDrill\obj\Debug\AbstractPersonDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AbstractPersonDrill\AbstractPersonDrill\obj\Debug\AbstractPersonDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AbstractPersonDrill\AbstractPersonDrill\obj\Debug\AbstractPersonDrill.pdb
