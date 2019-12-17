@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\InterfaceDrill\InterfaceDrill\bin\Debug\InterfaceDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\InterfaceDrill\InterfaceDrill\bin\Debug\InterfaceDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\InterfaceDrill\InterfaceDrill\bin\Debug\InterfaceDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\InterfaceDrill\InterfaceDrill\obj\Debug\InterfaceDrill.pdb
