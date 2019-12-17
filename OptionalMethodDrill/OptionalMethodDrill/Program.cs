@@ -14,19 +14,41 @@ namespace OptionalMethodDrill
                 "Enter your first number.\n");
             int input = Convert.ToInt32(Console.ReadLine() + "\n");
             Math math = new Math();
-            bookMark:
-            try
+            bool check = true;
+
+
+            do
             {
-                Console.WriteLine("Now enter you second number:\n");
-                int input2 = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine();
-                Console.WriteLine(math.Add(input, out input2) + "\n");
+                try
+                {
+                    Console.WriteLine("Now enter you second number:\n");
+                    string input2 = Console.ReadLine();
+                    if (input2 == "")
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine(math.Add(input) + "\n");
+                        check = false;
+                    }
+                    else
+                    {
+                        int newInput = Convert.ToInt32(input2);
+                        Console.WriteLine(math.Add(input, newInput));
+                        check = false;
+                        break;
+
+                    }
+
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Press Enter and input a whole number.\n");
+                    continue;
+                }
             }
-            catch (FormatException)
-            {
-                Console.WriteLine("Please choose a whole number or enter a zero to no number.");
-                goto bookMark;
-            }
+            while (check);
+                        
+                    
+
 
         }
     }

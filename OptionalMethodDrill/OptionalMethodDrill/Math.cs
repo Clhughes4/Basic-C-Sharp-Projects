@@ -8,10 +8,9 @@ namespace OptionalMethodDrill
 {
     class Math
     {
-        public int Add(int num, out int number, int num1 = 7)
+        public int Add(int num, int num1 = 7)
         {
             int result = (num + num1) * 86;
-            number = 0;
 
             return result;
         }
