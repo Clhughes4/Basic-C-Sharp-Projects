@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\OverloadOperatorDrill\OverloadOperatorDrill\bin\Debug\OverloadOperatorDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\OverloadOperatorDrill\OverloadOperatorDrill\bin\Debug\OverloadOperatorDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\OverloadOperatorDrill\OverloadOperatorDrill\bin\Debug\OverloadOperatorDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\OverloadOperatorDrill\OverloadOperatorDrill\obj\Debug\OverloadOperatorDrill.pdb
