@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\GenericDrill\GenericDrill\bin\Debug\GenericDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\GenericDrill\GenericDrill\bin\Debug\GenericDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\GenericDrill\GenericDrill\bin\Debug\GenericDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\GenericDrill\GenericDrill\obj\Debug\GenericDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\GenericDrill\GenericDrill\obj\Debug\GenericDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\GenericDrill\GenericDrill\obj\Debug\GenericDrill.pdb
