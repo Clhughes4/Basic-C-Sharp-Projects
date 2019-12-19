@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\EnumDrill\EnumDrill\bin\Debug\EnumDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\EnumDrill\EnumDrill\bin\Debug\EnumDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\EnumDrill\EnumDrill\bin\Debug\EnumDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\EnumDrill\EnumDrill\obj\Debug\EnumDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\EnumDrill\EnumDrill\obj\Debug\EnumDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\EnumDrill\EnumDrill\obj\Debug\EnumDrill.pdb
