@@ -12,21 +12,16 @@ namespace OverloadOperatorDrill
 
         public static bool operator ==(Employee employee1, Employee employee2)
         {
-            //bool status = false;
+            bool status = false;
             if (employee1.ID == employee2.ID)
             {
-                //status = true;
+                status = true;
             }
-            return (employee1 == employee2);
+            return (status);
         }
 
         public static bool operator !=(Employee employee1, Employee employee2)
         {
-            bool status = false;
-            if (employee1.ID != employee2.ID)
-            {
-                status = true;
-            }
             return !(employee1 == employee2);
         }
     }

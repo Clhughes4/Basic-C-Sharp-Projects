@@ -21,7 +21,7 @@ namespace OverloadOperatorDrill
             employee2.ID = 94179;
 
             
-            Console.WriteLine(employee != employee2);
+            Console.WriteLine(employee == employee2);
                 
 
         }
