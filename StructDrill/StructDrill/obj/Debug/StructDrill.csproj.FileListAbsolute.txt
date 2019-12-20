@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StructDrill\StructDrill\bin\Debug\StructDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StructDrill\StructDrill\bin\Debug\StructDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StructDrill\StructDrill\bin\Debug\StructDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StructDrill\StructDrill\obj\Debug\StructDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StructDrill\StructDrill\obj\Debug\StructDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\StructDrill\StructDrill\obj\Debug\StructDrill.pdb
