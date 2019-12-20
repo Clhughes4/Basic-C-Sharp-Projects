@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\LambdaEmployeeDrill\LambdaEmployeeDrill\bin\Debug\LambdaEmployeeDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\LambdaEmployeeDrill\LambdaEmployeeDrill\bin\Debug\LambdaEmployeeDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\LambdaEmployeeDrill\LambdaEmployeeDrill\bin\Debug\LambdaEmployeeDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.pdb
