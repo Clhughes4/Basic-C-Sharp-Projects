@@ -1,0 +1,6 @@
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AgeBornDrill\AgeBornDrill\bin\Debug\AgeBornDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AgeBornDrill\AgeBornDrill\bin\Debug\AgeBornDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AgeBornDrill\AgeBornDrill\bin\Debug\AgeBornDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AgeBornDrill\AgeBornDrill\obj\Debug\AgeBornDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AgeBornDrill\AgeBornDrill\obj\Debug\AgeBornDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\AgeBornDrill\AgeBornDrill\obj\Debug\AgeBornDrill.pdb
