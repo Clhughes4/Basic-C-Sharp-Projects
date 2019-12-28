@@ -1,0 +1,12 @@
+C:\Users\Clint-Aly\source\repos\NumberLogDrill\NumberLogDrill\bin\Debug\NumberLogDrill.exe.config
+C:\Users\Clint-Aly\source\repos\NumberLogDrill\NumberLogDrill\bin\Debug\NumberLogDrill.exe
+C:\Users\Clint-Aly\source\repos\NumberLogDrill\NumberLogDrill\bin\Debug\NumberLogDrill.pdb
+C:\Users\Clint-Aly\source\repos\NumberLogDrill\NumberLogDrill\obj\Debug\NumberLogDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\source\repos\NumberLogDrill\NumberLogDrill\obj\Debug\NumberLogDrill.exe
+C:\Users\Clint-Aly\source\repos\NumberLogDrill\NumberLogDrill\obj\Debug\NumberLogDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\NumberLogDrill\NumberLogDrill\bin\Debug\NumberLogDrill.exe.config
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\NumberLogDrill\NumberLogDrill\bin\Debug\NumberLogDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\NumberLogDrill\NumberLogDrill\bin\Debug\NumberLogDrill.pdb
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\NumberLogDrill\NumberLogDrill\obj\Debug\NumberLogDrill.csprojAssemblyReference.cache
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\NumberLogDrill\NumberLogDrill\obj\Debug\NumberLogDrill.exe
+C:\Users\Clint-Aly\Desktop\Basic_C#_Drills\NumberLogDrill\NumberLogDrill\obj\Debug\NumberLogDrill.pdb
