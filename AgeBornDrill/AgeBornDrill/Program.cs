@@ -10,45 +10,37 @@ namespace AgeBornDrill
     {
         static void Main(string[] args)
         {
-            bookMark:
-            try
+
+            bool legit = false;
+            while (!legit)
             {
-                Console.WriteLine("What is your age?");
-                int age = Convert.ToInt32(Console.ReadLine());
-                Console.WriteLine();
-                if (age < 0 || age == 0 || age > 100 )
-                {
-                    while (age < 0 || age == 0 || age > 100)
+                try 
+                { 
+                    Console.WriteLine("What is your age?");
+                    int age = Convert.ToInt32(Console.ReadLine());
+                    Console.WriteLine();
+                    if (age < 0 || age == 0 || age > 100)
                     {
-                        Console.WriteLine("Please enter a valid age");
-                        break;
+                            Console.WriteLine("Please enter a valid age");
                     }
-                        goto bookMark;
-
+                    else
+                    {
+                        var today = DateTime.Today;
+                        var yearBorn = today.Year - age;
+                        Console.WriteLine("You were born in {0}", yearBorn);
+                        legit = true;
+                    }
                 }
-                else
+                catch (FormatException)
                 {
-                    var today = DateTime.Today;
-                    var yearBorn = today.Year - age;
-                    Console.WriteLine("You were born in {0}", yearBorn);
+                    Console.WriteLine("Please enter a whole number");
+
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
                 }
             }
-            catch (FormatException)
-            {
-                Console.WriteLine("Please enter a whole number");
-                //return;
-                goto bookMark;
-
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-                //return;
-                goto bookMark;
-            }
-            
-
         }
-
     }
 }
